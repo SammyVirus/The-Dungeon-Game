@@ -12,7 +12,7 @@ Interesting Dungeon Game written in Python
 - Player can move one step at a time, in Left, Right, Up, or Down directions
 - The Monster also moves one step at a time, **but the monster can move diagonally, or hold its position also**.
 - The dungeon boundaries act as walls. The player can not go through them.
-**Note:** You can select the size of the grid you want (but it must be greater than 1) 
+- **Note:** You can select the size of the grid you want (but it must be greater than 1) 
 
 #### Welcome to the Dungeon
 ![](Figures/welcome_to_the_dungeon.png)
