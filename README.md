@@ -14,13 +14,13 @@ Interesting Dungeon Game written in Python
 - The dungeon boundaries act as walls. The player can not go through them.
 
 #### Welcome to the Dungeon
-![](welcome_to_the_dungeon.png)
+![](Figures/welcome_to_the_dungeon.png)
 
 #### The Gameplay
-![](gameplay.png)
+![](Figures/gameplay.png)
 
 #### When the monster is hungry
-![](caught_by_monster.png)
+![](Figures/caught_by_monster.png)
 
 #### The Taste of VICTORY
-![](victory.png)
+![](Figures/victory.png)
